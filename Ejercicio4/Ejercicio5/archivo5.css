@@ -1,6 +1,10 @@
-body {
-    font-size: 15px;
-    color: blue
+
+h1{
+    color: blue;
+    font-size: 25px;
+}
+form {
+    color: brown;
 }
 button {
     font-size: 10px;
